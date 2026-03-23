@@ -71,7 +71,7 @@ Before Belgium, I spent a semester in **Poland** through the **Erasmus+ program*
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=muratkavak&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=muratkavak&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" height="180"/>
 &nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muratkavak&layout=compact&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" height="180"/>
 
