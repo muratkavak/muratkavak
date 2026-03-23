@@ -18,7 +18,7 @@ Final-year **Computer Engineering** student with a focus on **model-based testin
 
 Currently based in **Antwerpen, Belgium**, working at the intersection of academia and industry:
 
-> **Research Intern** @ [AnSyMo Research Group](https://ansymo.uantwerpen.be/), University of Antwerp
+> **Research Intern** @ [AnSyMo Research Group]([https://ansymo.uantwerpen.be/](https://www.uantwerpen.be/en/research-groups/ansymo/)), University of Antwerp
 > Designing and implementing automated testing techniques for model-based safety-critical systems.
 
 > **Junior Software Developer** @ **SafeShift** (University of Antwerp spin-off)
