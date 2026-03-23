@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="github_banner.png" alt="Murat Kavak - Software Developer | Test Automation | Safety-Critical Systems" width="100%"/>
+# Hey, I'm Murat
 
-<br/>
+**Software Developer** · Building tools that make safety-critical systems more reliable
 
 <a href="https://www.linkedin.com/in/murat-kavak-b19389249/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
 <a href="mailto:kavakmuratt@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
@@ -10,7 +10,7 @@
 
 </div>
 
-<br/>
+---
 
 ## About Me
 
@@ -36,9 +36,6 @@ Before Belgium, I spent a semester in **Poland** through the **Erasmus+ program*
 <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white" height="28"/>
 <img src="https://img.shields.io/badge/Simulink-0076A8?style=flat-square&logo=mathworks&logoColor=white" height="28"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="28"/>
 
 <br/><br/>
 
@@ -61,13 +58,22 @@ Before Belgium, I spent a semester in **Poland** through the **Erasmus+ program*
 
 ---
 
+## A Bit More About Me
+
+- I speak **Turkish** (native) and **English** (B2), and I'm picking up daily survival Dutch living in Belgium
+- I enjoy turning **messy research prototypes** into **clean, production-ready software**
+- I thrive in **multicultural teams**. My Erasmus experience and current work in Belgium shaped that
+- Great software is built with great coffee and even better communication
+
+---
+
 ## GitHub Stats
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=muratkavak&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" height="180"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muratkavak&layout=compact&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muratkavak&layout=compact&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" height="180"/>
 
 <br/><br/>
 
@@ -89,6 +95,8 @@ Before Belgium, I spent a semester in **Poland** through the **Erasmus+ program*
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:58A6FF&height=120&section=footer" width="100%"/>
+_"The best way to predict the future is to build it."_
+
+**Thanks for stopping by!** If you're into testing, safety-critical systems, or just want to chat about cool engineering problems, let's connect.
 
 </div>
